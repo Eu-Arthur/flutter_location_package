@@ -20,3 +20,5 @@
 	path = packages/location_windows
 	url = git@github.com:Eu-Arthur/flutter_location_windows.git
 [submodule "location_web"]
+	path = packages/location_web
+	url = git@github.com:Eu-Arthur/flutter_location_web.git
