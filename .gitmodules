@@ -1,3 +1,6 @@
 [submodule "location"]
 	path = packages/location
 	url = git@github.com:Eu-Arthur/flutter_location.git
+[submodule "location_android"]
+	path = packages/location_android
+	url = git@github.com:Eu-Arthur/flutter_location_android.git
