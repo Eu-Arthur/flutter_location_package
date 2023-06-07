@@ -16,3 +16,7 @@
 [submodule "location_macos"]
 	path = packages/location_macos
 	url = git@github.com:Eu-Arthur/flutter_location_macos.git
+[submodule "location_windows"]
+	path = packages/location_windows
+	url = git@github.com:Eu-Arthur/flutter_location_windows.git
+[submodule "location_web"]
